@@ -1,4 +1,5 @@
 E-commerce Analysis: Do Jupyter Notebook ao Dashboard Interativo 📊
+![Dashboard de Performance](images/dashboard_final.png)
 Este projeto demonstra o ciclo completo de um analista de dados: desde o tratamento e exploração de dados brutos utilizando Python (Jupyter Notebook) até à criação de um dashboard de Business Intelligence no Looker Studio para suporte à decisão executiva.
 
 🎯 Objetivo do Projeto
